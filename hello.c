@@ -4,7 +4,6 @@
 
 #include "turn_num.h"
 
-
 int main(int argc, char *argv[])
 {
 	int test_num = 12321;
