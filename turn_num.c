@@ -1,6 +1,7 @@
 
 
 
+
 int is_turn_num(int num)
 {
 	int reverse_num = 0;
