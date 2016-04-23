@@ -14,7 +14,6 @@ int main(int argc, char *argv[])
 	printf("this is del_test branch 3!\n");
 	printf("this is del_test branch 4!\n");
 	printf("this is del_test branch 5!\n");
-	printf("this is del_test branch 6!\n");
 
 	printf("is turn %d\n", is_turn_num(test_num));
 	printf("is turn %d\n", is_turn_num(test_num_2));
