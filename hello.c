@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
 	printf("hello github!\n");
 	printf("this is del_test branch!\n");
 	printf("this is del_test branch 2!\n");
+	printf("this is del_test branch 3!\n");
 
 	printf("is turn %d\n", is_turn_num(test_num));
 	printf("is turn %d\n", is_turn_num(test_num_2));
