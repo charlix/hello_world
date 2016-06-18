@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
 	printf("this is del_test branch 3!\n");
 	printf("this is del_test branch 4!\n");
 	printf("hee\n");
+	printf("hee\n");
 
 	printf("test merge +1\n");
 
