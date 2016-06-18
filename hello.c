@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 	printf("hee\n");
 
 	printf("test merge\n");
+	printf("test merge +1\n");
 
 	printf("is turn %d\n", is_turn_num(test_num));
 	printf("is turn %d\n", is_turn_num(test_num_2));
